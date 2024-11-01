@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ccxcx your team boost your time to production
+      text: dvsdvsdvsdvsdvsd
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
